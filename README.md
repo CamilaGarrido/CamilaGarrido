@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @CamilaGarrido
+- I am from Concepción, Chile
 - 👀 I’m interested in Science and Technology
 - 🌱 I’m currently learning programming in python
 - 💞️ I’m looking to collaborate in programming and AI projects
