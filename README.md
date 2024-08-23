@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CamilaGarrido
-- I am from Concepción, Chile
+- 😄I am from Concepción, Chile
+- 🌱 I am a Bioengineer
 - 👀 I’m interested in Science and Technology
-- 🌱 I’m currently learning programming in python
+- 💞️I’m currently learning programming in python
 - 💞️ I’m looking to collaborate in programming and AI projects
 - 📫 How to reach me https://www.linkedin.com/in/camila-garrido98/
 - 😄 Pronouns: Cami
